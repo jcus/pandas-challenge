@@ -1,4 +1,4 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+# Pandas - Pandas, Pandas, Pandas
 
 ## Background
 
@@ -202,9 +202,6 @@ As final considerations:
 
 * Ensure your repository has regular commits and a thorough README.md file
 
-## Rubric
-
-[Unit 4 Rubric - Pandas Homework - Pandas, Pandas, Pandas](https://docs.google.com/document/d/1VwP0gfKN-ZGZvIhuaKmx00wCcPOMC5qofXXFcUGe90E/edit?usp=sharing)
 
 - - -
 
